@@ -2,7 +2,7 @@
 
 This is a MATLAB project consisting of manipulating the filling order of matrices in the desired visual geometric shapes.
 
-The attached files
+The attached files (.m format) are the Matlab files that contitute my whole project
 
 # Introduction:
 A matrix is a collection of numbers arranged into a fixed number of rows and columns. It is used for plotting graphs, statistics and also to do scientific studies in almost different fields, especially in physics, matrices are applied in the study of electrical circuits, quantum mechanics and optics.
