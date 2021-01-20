@@ -9,10 +9,10 @@ This project concerns the manipulation of the matrix’s by its direction. The c
 
 
 Writing the program:
-As a common technique, filling a zero matrix of a given dimension ‘n’ was the simplest. Progressing in an element-by-element way is done by:
--Creating two loops of indexes ‘i’ and ‘j’.
--Defining the new value given for the element A(i,j) by finding a pattern (addition of a constant or a known variable).
--Convert this pattern to a general formula.
--Apply this formula to the elements of the matrix.
+As a common technique, filling a zero matrix of a given dimension ‘n’ was the simplest. Progressing in an element-by-element way is done by:/n
+-Creating two loops of indexes ‘i’ and ‘j’./n
+-Defining the new value given for the element A(i,j) by finding a pattern (addition of a constant or a known variable)./n
+-Convert this pattern to a general formula./n
+-Apply this formula to the elements of the matrix./n
 
 Once the general formula is found, the remaining part of the program is to control the direction of the matrix by the ‘if’ condition.
